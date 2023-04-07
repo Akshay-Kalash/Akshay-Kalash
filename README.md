@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshay-Kalash
 - 👀 I’m interested in Exploring Technologies delving in Development and Designing of websites,pages,games,etc.
-- 🌱 I’m currently learning Java and Game development using Unity 2D 
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kalashakshay99@gmail.com
 
